@@ -1,0 +1,13 @@
+FOOD DELIVERY ANALYTICS INSIGHTS
+========================================
+
+Generated on: 2025-05-27 06:40:34
+
+💰 Average customer lifetime value: $2173.78
+🌟 Highest spending customer: $618.68
+✅ Active customers: 399
+⚠️ At-risk customers: 57
+🏆 Top performing restaurant: Pizza Corner ($4719.11)
+⭐ Average restaurant rating: 4.06
+⏰ Peak ordering hour: 19:00
+🍕 Best selling item: California Roll ($1736.64 revenue)

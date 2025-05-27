@@ -1,0 +1,45 @@
+# Data Engineering Portfolio - Food Delivery Analytics
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database & SQL
+sqlalchemy>=2.0.0
+sqlite-utils>=3.34.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+dash>=2.10.0
+dash-bootstrap-components>=1.4.0
+
+# Machine Learning & Analytics
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Data Generation & Simulation
+faker>=19.0.0
+python-dateutil>=2.8.0
+
+# Data Quality & Monitoring
+great-expectations>=0.17.0
+pandera>=0.15.0
+
+# Performance & Optimization
+numba>=0.57.0
+joblib>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+click>=8.1.0
+
+# Development & Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Documentation
+jupyter>=1.0.0
+nbconvert>=7.0.0 
